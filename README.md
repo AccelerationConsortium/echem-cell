@@ -1,4 +1,12 @@
-# This project is documented with GitBuilding
+# Electrochemical Cell
+
+A custom, 3D printable electrochemical cell, in which material characterization in three electrode setup can be performed, was designed and printed. The cell is optimized for being low cost, allowing quick and automated setup of experiments and having a high degree of reproducibility. To develop this design, a team of three persons worked together: Matthias Gramlich, and Bojan Micevski (a technical designer), and Sterling Baird.
+
+See https://accelerated-discovery.org/t/electrode-lifecycle-enhancement-through-computational-testing-and-research-automation/510 and the GitHub issues for further details.
+
+While the full design process and the latest designs and procedures are publicly documented in this repository's GitHub issues, formalized build instructions using GitBuilding are underway (as of 2025-06-24): 
+
+<!--- # This project is documented with GitBuilding
 
 ## What is GitBuilding
 
@@ -19,3 +27,5 @@ notice that the files you are editing are markdown files. GitBuilding uses an ex
 markdown syntax (that we call BuildUp). This allows you to keep track of parts in the
 documentation. More detailed documentation is available on the
 [GitBuilding website](https://gitbuilding.io).
+
+---->
