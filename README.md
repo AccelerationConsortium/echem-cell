@@ -4,7 +4,7 @@ A custom, 3D printable electrochemical cell, in which material characterization 
 
 See https://accelerated-discovery.org/t/electrode-lifecycle-enhancement-through-computational-testing-and-research-automation/510 and the GitHub issues for further details.
 
-While the full design process and the latest designs and procedures are publicly documented in this repository's GitHub issues, formalized build instructions using GitBuilding are underway (as of 2025-06-24): 
+While the full design process and the latest designs and procedures are publicly documented in this repository's GitHub issues, formalized build instructions using GitBuilding are planned (as of 2025-06-24):   https://accelerationconsortium.github.io/echem-cell
 
 <!--- # This project is documented with GitBuilding
 
